@@ -16,6 +16,9 @@ Install libraries:
 <br>   LiquidCrystal by Arduino, Adafruit
 <br>   DHT sensor library by Adafruit
 
+<br><br>
 
-![Circuit Layout](https://github.com/Heracles404/DHT11-on-LCD/assets/103508458/41c4ad02-7e25-40ce-91fd-63174d2b3d26)
+### Circuit
+![Circuit Layout](https://github.com/Heracles404/DHT11-on-LCD/assets/103508458/08fd6a3f-12bc-4778-a0c6-956ac642b586)
+
 
