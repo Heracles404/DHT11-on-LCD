@@ -17,11 +17,13 @@ Install libraries:
 <br>   DHT sensor library by Adafruit
 
 <br>
+### Circuit Test
+https://youtu.be/ltQ0vTkZ6gA
+
+<br>
 
 ### Circuit
 ![Circuit Layout](https://github.com/Heracles404/DHT11-on-LCD/assets/103508458/08fd6a3f-12bc-4778-a0c6-956ac642b586)
 
 
-<br>
-### YouTube
-![Circuit Test](https://youtu.be/ltQ0vTkZ6gA)
+
